@@ -6,4 +6,3 @@ temp = a
 a = b
 b = temp
 print(f"After:{a=} {b=}")
-
